@@ -1,0 +1,30 @@
+{
+  "name": "zleaderboardbot",
+  "version": "1.0.0",
+  "description": "A simple leaderboard bot for a Zombie Rush group",
+  "main": "app.js",
+  "scripts": {
+    "run": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^5.0.7",
+    "common-tags": "^1.8.0",
+    "cpu-stat": "^2.0.1",
+    "discord-canvas": "github:snowflake107/discord-canvas",
+    "discord.js": "^12.2.0",
+    "discord.js-commando": "github:discordjs/Commando#master",
+    "dotenv": "^8.2.0",
+    "elara-services": "^1.2.6",
+    "great-commando": "github:elara-bots/great-commando#v12",
+    "markdown-table": "^2.0.0",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.10.1",
+    "nodejs": "0.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
